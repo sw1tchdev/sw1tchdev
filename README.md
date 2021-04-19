@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sw1tchdev
 - 👀 I’m interested in Web-development, DIY
-- 🌱 I’m currently learning React, Rust
+- 🌱 I’m currently learning React, C++, Rust
 
 <!---
 sw1tchdev/sw1tchdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
